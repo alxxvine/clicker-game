@@ -1,0 +1,4 @@
+repository "Clicker/Clicker@10171206554981@cloud"
+  path "/"
+    br "/main"
+    co "/main"
